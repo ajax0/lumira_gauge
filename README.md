@@ -7,3 +7,5 @@ This extension expects the following files in your source data:
   Position 3: Min - this is the minimum value for the gauge scale;
   Position 4: Max - this is the maximum value for the gauge scale;
   Position 5: LiH - this is a 'low is high' indicator (1: high zone is green, or 0: high zone is red) to control the 'high' colour range.
+
+<initiate>
